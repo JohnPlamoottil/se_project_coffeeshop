@@ -14,4 +14,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 Add your ideas here :)
-I would like to make this coffee shop menu more interactive for users to use on their mobile device ot tablet instead of just a computer.
+I would like to make this coffee shop menu more interactive for users to use on their mobile device or tablet instead of just a computer.

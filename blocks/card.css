@@ -3,7 +3,7 @@
 }
 card__title {
   margin: 0 0 32px;
-  font-family: "Inter", "Arial" sans-serif;
+  font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
@@ -29,4 +29,5 @@ card__title {
 .card__list-divider {
   border-bottom: 1px solid black;
   flex-grow: 1;
+  margin: 0 8px;
 }

@@ -18,6 +18,10 @@
   background-color: #0a2850;
   position: relative;
   overflow: hidden;
+  padding-left: 0px;
+  padding-bottom: 173px;
+  padding-right: 80px;
+  padding-top: 100px;
 }
 .about__title {
   color: white;
@@ -31,6 +35,8 @@
   margin-left: 80px;
   position: absolute;
   z-index: 2;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 .about__content {
   max-width: 660px;
@@ -41,12 +47,14 @@
   padding-top: 100px;
 }
 .about__paragraph {
-  font-family: "Noto Serif";
+  font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
   padding-top: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .about__circle {

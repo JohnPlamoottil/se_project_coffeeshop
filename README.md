@@ -11,6 +11,15 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - A custom form
 - CSS animation and transform
 
+## Images
+
+<div display="flex" content="space-evenly">
+<img align="center" height="500" alt="Image of project" src="./images/page1.png">
+<img align="center" height="500" alt="Image of project" src="./images/page2.png">
+<img align="center" height="500" alt="Image of project" src="./images/page3.png">
+<img align="center" height="500" alt="Image of project" src="./images/page4.png">
+<img align="center" height="500" alt="Image of project" src="./images/page5.png">
+</div>
 ## Plan on improving the project
 
 Add your ideas here :)
